@@ -1,0 +1,25 @@
+_repo: The-Girl-s-Own-Paper-Vol-VIII-No-373-February-19-1887_66425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2021-09-30'
+identifiers:
+  gutenberg: '66425'
+language: en
+pgterms:marc905: 20051018110503klickmann
+pgterms:marc906: '1880'
+pgterms:marc907: GB
+production_note: Susan Skinner and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United Kingdom :Religious Tract Society,1880,pubdate 1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Girl's Own Paper, Vol. VIII, No. 373, February 19, 1887
+url: http://www.gutenberg.org/ebooks/66425
